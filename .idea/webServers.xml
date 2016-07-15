@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59a93d45-182b-47a0-b30f-aa996062a7cc" name="Yerba Buena - GoDaddy" url="http://yerbabuena.org">
+        <fileTransfer host="yerbabuena.org" port="22" accessType="SFTP" password="dfe9dfdadf80dfc2dfcbdfcddfe9dfeddfd1dfe3df98df82" username="add02456389769">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
